@@ -8,5 +8,5 @@
 
 🐳 I enjoy contributing to Open Source and I'm really enthusiast about learning new technology.
 
-📹 I make some video on don't forget subscribe my youtube channel 
-
+### Support
+https://img.shields.io/youtube/channel/subscribers/UCODtyF2wtLJ0Dch_L9px0JA?style=social
