@@ -1,6 +1,6 @@
 ### Hi there! 👋 I am Lat
 ###
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/La7z?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCODtyF2wtLJ0Dch_L9px0JA?style=social">           
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/La7z?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xLa7z?style=social">  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCODtyF2wtLJ0Dch_L9px0JA?style=social">           
 
 ###  Whoami
 
