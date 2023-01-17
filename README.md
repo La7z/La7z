@@ -1,5 +1,5 @@
-### Hi there 👋 I am Lat
-
+### Hi there! 👋 I am Lat
+### Whoami
 🔭 I'm currently working on somewhere in world
 
 🌱 I'm newbie and still learning
