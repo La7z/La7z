@@ -1,8 +1,8 @@
 ### Hi there! 👋 I am Lat
-### Whoami
-🔭 I'm currently working on somewhere in world
+###  Whoami
+🔭 I'm newbie and still learning
 
-🌱 I'm newbie and still learning
+🌱 Love to explore new thing especially on cyber and technology
 
-:computer: Love to explore new thing especially on cyber and technology
+
 
