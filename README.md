@@ -6,4 +6,4 @@
 
 💻 Love to explore new thing especially on cyber and technology
 
-🐳 I enjoy contributing to Open Source and i am really enthusiast about learning new technology.
+🐳 I enjoy contributing to Open Source and I'm really enthusiast about learning new technology.
