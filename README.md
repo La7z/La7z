@@ -1,5 +1,5 @@
 ### Hi there 👋, Hafis Ridzwan
-![](https://i.postimg.cc/76tr6B25/9mtznxfpdeuq48ed1el8.gif)
+![](https://i.postimg.cc/fLfpt8Sc/ezgif-com-gif-maker-2.gif)
 
 🎈 I'm Hafis Ridzwan from Malaysia, newbie and still learning from zero. 
 💻 Love to explore new thing especially on cyber and technology.
