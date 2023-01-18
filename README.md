@@ -22,4 +22,5 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=La7z)  
 
-![Profile views](https://gpvc.arturio.dev/La7z)  
+![Profile views](https://gpvc.arturio.dev/La7z)  <img alt="GitHub followers" src="https://img.shields.io/github/followers/La7z?style=social"> 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/xLa7z?style=social"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCODtyF2wtLJ0Dch_L9px0JA?style=social">
