@@ -1,5 +1,4 @@
-![](https://i.postimg.cc/fLfpt8Sc/ezgif-com-gif-maker-2.gif)
-
+![](https://i.postimg.cc/tCYmd31H/ezgif-com-gif-maker-1.gif)
 ### Hafis Ridzwan
 
 - 🎈 I'm Hafis Ridzwan from Malaysia, newbie and still learning from zero.
