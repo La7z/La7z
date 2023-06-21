@@ -3,7 +3,7 @@
 ### Hafis Ridzwan
 
 - 🎈 I'm Hafis Ridzwan from Malaysia.
-- 💻 Love to explore new thing especially on cyber security. I was trying to break into cybersecurity.
+- 💻 Love to explore new thing especially on cyber security. I was trying to break into cyber security.
 - 🐳 I really enjoy contributing to Open Source and I'm really enthusiast about learning new technique and about offensive security. 
 
 
